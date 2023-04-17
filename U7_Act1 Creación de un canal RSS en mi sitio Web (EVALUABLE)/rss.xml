@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Bryan Ramos Noticias</title>
+		<link></link>
+		<description>noticia1</description>
+		<language>en-us</language>
+		<copyright><![CDATA[  Copyright © 2023 Bryan Ramos Hernández ]]></copyright>
+		<image>
+			<url>Bryan Ramos Noticias</url>
+			<title>Bryan Ramos Noticias</title>
+			<link></link>
+		</image>
+		<item>
+			<title>Noticia1</title>
+			<link>https://civio.es/el-boe-nuestro-de-cada-dia/2023/03/23/placa-de-oro-al-merito-deportivo-para-la-asociacion-de-productores-de-cerveza/</link>
+			<pubDate>, 12 Apr 2023 12:00:00 GMT</pubDate>
+			<author>CIVIO</author>
+			<category>SEO</category>
+			<description><![CDATA[ 
+			<h1>Noticia1</h1>
+			
+    Así es el bono cultural joven en 2023
+			]]></description>
+		</item>
+		<item>
+			<title>Así es la reforma de las pensiones</title>
+			<link>https://civio.es/el-boe-nuestro-de-cada-dia/2023/03/17/reforma-pensiones/</link>
+			<pubDate>, 12 Apr 2023 12:00:00 GMT</pubDate>
+			<author>CIVIO</author>
+			<category>SEO</category>
+			<description><![CDATA[ 
+			<h1>Así es la reforma de las pensiones</h1>
+			Así es la reforma de las pensiones
+			]]></description>
+		</item>
+		<item>
+			<title>El extraño caso de los decretos ley que tardaron semanas en llegar al BOE</title>
+			<link>https://civio.es/el-boe-nuestro-de-cada-dia/2023/01/16/cuando-no-hay-prisa-por-publicar-un-decreto-ley/</link>
+			<pubDate>, 12 Apr 2023 12:00:00 GMT</pubDate>
+			<author>CIVIO</author>
+			<category>SEO</category>
+			<description><![CDATA[ 
+			<h1>El extraño caso de los decretos ley que tardaron semanas en llegar al BOE</h1>
+			El extraño caso de los decretos ley que tardaron semanas en llegar al BOE
+			]]></description>
+		</item>
+		<item>
+			<title>      Última hora de la Guerra de Ucrania</title>
+			<link>https://elpais.com/internacional/2023-04-17/guerra-ucrania-rusia-ultimas-noticias-en-directo.html</link>
+			<pubDate>, 12 Apr 2023 12:00:00 GMT</pubDate>
+			<author>EL PAÍS</author>
+			<category>SEO</category>
+			<description><![CDATA[ 
+			<h1>      Última hora de la Guerra de Ucrania</h1>
+			   Última hora de la Guerra de Ucrania
+			]]></description>
+		</item>
+		<item>
+			<title></title>
+			<link>https://elpais.com/cultura/2023-04-14/guia-para-disfrutar-de-coachella-cartel-fechas-y-horarios-del-festival.html</link>
+			<pubDate>, 12 Apr 2023 12:00:00 GMT</pubDate>
+			<author>EL PAÍS</author>
+			<category>SEO</category>
+			<description><![CDATA[ 
+			<h1></h1>
+			Festival Coachella 2023: actuaciones en directo
+			]]></description>
+		</item>
+		<item>
+			<title>El Sevilla apuntilla al Valencia</title>
+			<link>https://elpais.com/deportes/2023-04-16/el-sevilla-apuntilla-al-valencia.html</link>
+			<pubDate>, 12 Apr 2023 12:00:00 GMT</pubDate>
+			<author>EL PAÍS</author>
+			<category>SEO</category>
+			<description><![CDATA[ 
+			<h1>El Sevilla apuntilla al Valencia</h1>
+			El Sevilla apuntilla al Valencia
+			]]></description>
+		</item>
+	</channel>
+</rss>
